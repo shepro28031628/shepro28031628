@@ -10,12 +10,12 @@
 
 <!-- Navegación Rápida -->
 <p align="center">
-  <a href="#-terminal--resumen-ejecutivo"><b>:computer: Resumen</b></a> •
-  <a href="#-sobre-m%C3%AD--enfoque-principal"><b>:bar_chart: Sobre Mí</b></a> •
-  <a href="#-stack-tecnol%C3%B3gico--herramientas"><b>:gear: Stack</b></a> •
-  <a href="#-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>:rocket: Arquitectura</b></a> •
-  <a href="#-vitrina-de-proyectos-destacados-project-showcase"><b>:file_folder: Proyectos</b></a> •
-  <a href="#-conectemos--colaboraciones"><b>:handshake: Contacto</b></a>
+  <a href="#computer-terminal--resumen-ejecutivo"><b>:computer: Resumen</b></a> •
+  <a href="#bar_chart-sobre-m%C3%AD--enfoque-principal"><b>:bar_chart: Sobre Mí</b></a> •
+  <a href="#gear-stack-tecnol%C3%B3gico--herramientas"><b>:gear: Stack</b></a> •
+  <a href="#rocket-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>:rocket: Arquitectura</b></a> •
+  <a href="#file_folder-vitrina-de-proyectos-destacados-project-showcase"><b>:file_folder: Proyectos</b></a> •
+  <a href="#handshake-conectemos--colaboraciones"><b>:handshake: Contacto</b></a>
 </p>
 
 <p align="center">
@@ -26,6 +26,15 @@
     <img src="https://img.shields.io/github/followers/shepro28031628?label=Followers&style=for-the-badge&color=4facfe&logo=github" alt="Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20para%20Proyectos-success?style=for-the-badge&color=00c6ff" alt="Status" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edinsson-gonzalez">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Perfil%20Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-email@dominio.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-Contacto%20Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <!-- Galería visual compacta a 2 columnas con GIFs animados -->
