@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" /> Hola, soy **Edinsson Gonzalez**
+# 👋 Hola, soy **Edinsson Gonzalez**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
@@ -18,16 +18,16 @@
   <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20para%20Proyectos-success?style=for-the-badge&color=00c6ff" alt="Status" />
 </p>
 
-<!-- Galería visual compacta a 2 columnas -->
+<!-- Galería visual compacta a 2 columnas con GIFs animados -->
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/data_developer_workspace.png" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>💻 Entorno & Terminal de Datos</b></sub>
+      <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>💻 Entorno & Terminal de Datos (Animado)</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/data_analytics_pipeline.png" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>🔄 Visualización de Pipelines & Data Analytics</b></sub>
+      <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>🔄 Visualización de Pipelines & Data Analytics (Animado)</b></sub>
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Terminal & Resumen Ejecutivo
+## 💻 Terminal & Resumen Ejecutivo
 
 ```bash
 edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
@@ -53,7 +53,7 @@ edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> Sobre mí & Enfoque Principal
+## 📊 Sobre mí & Enfoque Principal
 
 Soy profesional especializado en **Analítica de Datos, Big Data, Automatización de Procesos e Integración de Sistemas**.
 
@@ -82,7 +82,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" /> Demostración & Multimedia
+## 🧠 Demostración & Multimedia
 
 <table width="100%" align="center">
   <tr>
@@ -101,7 +101,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Hitos & Especializaciones
+## 🏆 Hitos & Especializaciones
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineering-Specialist-00f2fe?style=for-the-badge&logo=python&logoColor=white" />
@@ -110,15 +110,15 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
-</p>
+<blockquote align="center">
+  💡 <i>"Sin datos, solo eres otra persona con una opinión."</i> — <b>W. Edwards Deming</b>
+</blockquote>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Gear.png" width="30" /> Stack Tecnológico & Herramientas
+## ⚙️ Stack Tecnológico & Herramientas
 
 <div align="center">
   <h3>💻 Lenguajes & Scripting</h3>
@@ -149,7 +149,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> Arquitectura & Flujo de Trabajo (Pipeline de Datos)
+## 🚀 Arquitectura & Flujo de Trabajo (Pipeline de Datos)
 
 ```mermaid
 flowchart LR
@@ -177,7 +177,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="30" /> Dashboard de Métricas & Actividad GitHub
+## ✨ Dashboard de Métricas & Actividad GitHub
 
 <table width="100%" align="center">
   <tr>
