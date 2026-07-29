@@ -101,38 +101,6 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## :zap: Muestra de Código (Data Pipeline Sample)
-
-```python
-# pipeline_example.py - Proceso ETL Automatizado de Ejemplo
-import pandas as pd
-from datetime import datetime
-
-class DataPipeline:
-    def __init__(self, source_url: str):
-        self.source = source_url
-        
-    def extract_and_transform(self) -> pd.DataFrame:
-        """Extrae, limpia y enriquece los datos de entrada."""
-        raw_data = pd.read_csv(self.source)
-        clean_df = raw_data.dropna().drop_duplicates()
-        clean_df['processed_at'] = datetime.utcnow()
-        return clean_df
-
-    def load_to_warehouse(self, df: pd.DataFrame, target_table: str):
-        """Carga los datos procesados a la base de datos empresarial."""
-        print(f"🚀 [ETL] Cargando {len(df)} registros limpios en {target_table}...")
-
-if __name__ == "__main__":
-    pipeline = DataPipeline(source_url="s3://data-warehouse/raw/daily_sales.csv")
-    data = pipeline.extract_and_transform()
-    pipeline.load_to_warehouse(data, target_table="analytics.fact_sales")
-```
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ## :robot: Demostración & Multimedia
 
 <table width="100%" align="center">
