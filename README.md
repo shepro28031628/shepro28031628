@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<!-- Galería visual interactiva en cuadrícula (2x2) con imágenes y GIFs de assets -->
+<!-- Galería visual destacada en cabecera -->
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -47,16 +47,6 @@
     <td width="50%" align="center" valign="top">
       <img src="./assets/2.gif" width="100%" style="border-radius: 8px;" />
       <br/><sub><b>🔄 Visualización & Pipeline de Datos (Animado)</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>⚡ Entorno & Terminal de Ingeniero (Animado)</b></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
     </td>
   </tr>
 </table>
@@ -79,7 +69,8 @@ edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
+  <br/><sub><b>⚡ Entorno & Terminal de Ingeniero de Datos (Animado)</b></sub>
 </p>
 
 ## :bar_chart: Sobre mí & Enfoque Principal
@@ -255,7 +246,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
+  <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
 </p>
 
 ## :sparkles: Dashboard de Métricas & Actividad GitHub
