@@ -191,6 +191,33 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+## 🛡️ Metodologías & Prácticas de Ingeniería
+
+<table width="100%" align="center">
+<tr>
+<td width="25%" align="center" valign="top">
+  <b>🔄 DataOps & CI/CD</b>
+  <br/><sub>Automatización de pipelines y pruebas continuas.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <b>📐 Clean Code</b>
+  <br/><sub>Código modular, mantenible y documentado.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <b>🔒 Data Governance</b>
+  <br/><sub>Seguridad, privacidad y calidad de datos.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <b>🚀 Agile / Scrum</b>
+  <br/><sub>Desarrollo iterativo centrado en valor rápido.</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ## 🚀 Arquitectura & Flujo de Trabajo (Pipeline de Datos)
 
 ```mermaid
@@ -306,11 +333,8 @@ flowchart LR
   <a href="https://github.com/shepro28031628">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/edinsson-gonzalez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
