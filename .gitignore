@@ -1,0 +1,35 @@
+# Environment & Credentials
+.env
+.env.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Node & Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+
+# Data & Large Files
+*.csv
+*.parquet
+*.sqlite3
+*.db
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
