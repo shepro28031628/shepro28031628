@@ -1,7 +1,7 @@
 # :wave: Hola, soy **Edinsson Gonzalez**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
 </p>
 
 <p align="center">
