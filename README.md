@@ -69,7 +69,7 @@ edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
 ```
 
 <p align="center">
-  <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
+  <img src="./assets/data_developer_workspace.gif" width="50%" style="border-radius: 8px;" />
   <br/><sub><b>⚡ Entorno & Terminal de Ingeniero de Datos (Animado)</b></sub>
 </p>
 
@@ -246,7 +246,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
+  <img src="./assets/data_analytics_pipeline.gif" width="50%" style="border-radius: 8px;" />
   <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
 </p>
 
