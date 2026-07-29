@@ -37,16 +37,16 @@
   </a>
 </p>
 
-<!-- Galería visual compacta a 2 columnas con GIFs animados -->
+<!-- Galería visual compacta a 2 columnas con GIFs e imágenes -->
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>:computer: Entorno & Terminal de Datos (Animado)</b></sub>
+      <img src="./assets/1.jpg" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>:computer: Entorno & Workspace de Datos</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>:arrows_counterclockwise: Visualización de Pipelines & Data Analytics (Animado)</b></sub>
+      <img src="./assets/2.gif" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>:arrows_counterclockwise: Visualización & Pipeline de Datos (Animado)</b></sub>
     </td>
   </tr>
 </table>
