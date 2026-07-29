@@ -37,16 +37,26 @@
   </a>
 </p>
 
-<!-- Galería visual compacta a 2 columnas con GIFs e imágenes -->
+<!-- Galería visual interactiva en cuadrícula (2x2) con imágenes y GIFs de assets -->
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="./assets/1.jpg" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>:computer: Entorno & Workspace de Datos</b></sub>
+      <br/><sub><b>💻 Data Workspace & Entorno de Trabajo</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="./assets/2.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>:arrows_counterclockwise: Visualización & Pipeline de Datos (Animado)</b></sub>
+      <br/><sub><b>🔄 Visualización & Pipeline de Datos (Animado)</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>⚡ Entorno & Terminal de Ingeniero (Animado)</b></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
+      <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
     </td>
   </tr>
 </table>
