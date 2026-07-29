@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Edinsson Gonzalez**
+# :wave: Hola, soy **Edinsson Gonzalez**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
@@ -10,12 +10,12 @@
 
 <!-- Navegación Rápida -->
 <p align="center">
-  <a href="#-terminal--resumen-ejecutivo"><b>💻 Resumen</b></a> •
-  <a href="#-sobre-m%C3%AD--enfoque-principal"><b>📊 Sobre Mí</b></a> •
-  <a href="#-stack-tecnol%C3%B3gico--herramientas"><b>⚙️ Stack</b></a> •
-  <a href="#-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>🚀 Arquitectura</b></a> •
-  <a href="#-vitrina-de-proyectos-destacados-project-showcase"><b>📂 Proyectos</b></a> •
-  <a href="#-conectemos--colaboraciones"><b>🤝 Contacto</b></a>
+  <a href="#-terminal--resumen-ejecutivo"><b>:computer: Resumen</b></a> •
+  <a href="#-sobre-m%C3%AD--enfoque-principal"><b>:bar_chart: Sobre Mí</b></a> •
+  <a href="#-stack-tecnol%C3%B3gico--herramientas"><b>:gear: Stack</b></a> •
+  <a href="#-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>:rocket: Arquitectura</b></a> •
+  <a href="#-vitrina-de-proyectos-destacados-project-showcase"><b>:file_folder: Proyectos</b></a> •
+  <a href="#-conectemos--colaboraciones"><b>:handshake: Contacto</b></a>
 </p>
 
 <p align="center">
@@ -33,11 +33,11 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="./assets/data_developer_workspace.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>💻 Entorno & Terminal de Datos (Animado)</b></sub>
+      <br/><sub><b>:computer: Entorno & Terminal de Datos (Animado)</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="./assets/data_analytics_pipeline.gif" width="100%" style="border-radius: 8px;" />
-      <br/><sub><b>🔄 Visualización de Pipelines & Data Analytics (Animado)</b></sub>
+      <br/><sub><b>:arrows_counterclockwise: Visualización de Pipelines & Data Analytics (Animado)</b></sub>
     </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 💻 Terminal & Resumen Ejecutivo
+## :computer: Terminal & Resumen Ejecutivo
 
 ```bash
 edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
@@ -63,7 +63,7 @@ edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 📊 Sobre mí & Enfoque Principal
+## :bar_chart: Sobre mí & Enfoque Principal
 
 Soy profesional especializado en **Analítica de Datos, Big Data, Automatización de Procesos e Integración de Sistemas**.
 
@@ -74,15 +74,15 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 <table width="100%" align="center">
 <tr>
 <td width="33%" align="center" valign="top">
-  <h4>📊 Data Analytics</h4>
+  <h4>:bar_chart: Data Analytics</h4>
   <sub>Análisis exploratorio, modelos estadísticos, BI y cuadros de mando interactivos.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-  <h4>🔄 Data Engineering</h4>
+  <h4>:arrows_counterclockwise: Data Engineering</h4>
   <sub>Pipelines ETL/ELT automatizados, arquitectura de datos y optimización SQL/NoSQL.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-  <h4>⚙️ Process Automation</h4>
+  <h4>:gear: Process Automation</h4>
   <sub>Automatización de flujos operativos, integración de APIs y herramientas de IA.</sub>
 </td>
 </tr>
@@ -92,7 +92,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## ⚡ Muestra de Código (Data Pipeline Sample)
+## :zap: Muestra de Código (Data Pipeline Sample)
 
 ```python
 # pipeline_example.py - Proceso ETL Automatizado de Ejemplo
@@ -124,7 +124,7 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🧠 Demostración & Multimedia
+## :robot: Demostración & Multimedia
 
 <table width="100%" align="center">
   <tr>
@@ -143,7 +143,7 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🏆 Hitos & Especializaciones
+## :trophy: Hitos & Especializaciones
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineering-Specialist-00f2fe?style=for-the-badge&logo=python&logoColor=white" />
@@ -160,7 +160,7 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## ⚙️ Stack Tecnológico & Herramientas
+## :gear: Stack Tecnológico & Herramientas
 
 <div align="center">
   <h3>💻 Lenguajes & Scripting</h3>
@@ -191,7 +191,7 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🛡️ Metodologías & Prácticas de Ingeniería
+## :shield: Metodologías & Prácticas de Ingeniería
 
 <table width="100%" align="center">
 <tr>
@@ -218,7 +218,7 @@ if __name__ == "__main__":
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🚀 Arquitectura & Flujo de Trabajo (Pipeline de Datos)
+## :rocket: Arquitectura & Flujo de Trabajo (Pipeline de Datos)
 
 ```mermaid
 flowchart LR
@@ -246,7 +246,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## ✨ Dashboard de Métricas & Actividad GitHub
+## :sparkles: Dashboard de Métricas & Actividad GitHub
 
 <table width="100%" align="center">
   <tr>
@@ -272,7 +272,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🐍 Gráfico de Contribuciones Animado (Snake Animation)
+## :snake: Gráfico de Contribuciones Animado (Snake Animation)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
@@ -282,7 +282,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 📂 Vitrina de Proyectos Destacados (Project Showcase)
+## :file_folder: Vitrina de Proyectos Destacados (Project Showcase)
 
 <table width="100%" align="center">
 <tr>
@@ -309,7 +309,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## ❓ Preguntas Frecuentes & Metodología de Trabajo
+## :question: Preguntas Frecuentes & Metodología de Trabajo
 
 <details>
   <summary><b>🛠️ ¿Cuál es mi enfoque de trabajo principal?</b></summary>
@@ -327,7 +327,7 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🤝 Conectemos & Colaboraciones
+## :handshake: Conectemos & Colaboraciones
 
 <p align="center">
   <a href="https://github.com/shepro28031628">
