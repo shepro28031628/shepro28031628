@@ -8,6 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Big+Data+%7C+Automation;Data+Engineering+%7C+ETL+%2F+ELT+Pipelines;Construyendo+soluciones+escalables+impulsadas+por+datos;Transformando+datos+complejos+en+decisiones+estrat%C3%A9gicas" alt="Typing SVG" />
 </p>
 
+<!-- Navegación Rápida -->
+<p align="center">
+  <a href="#-terminal--resumen-ejecutivo"><b>💻 Resumen</b></a> •
+  <a href="#-sobre-m%C3%AD--enfoque-principal"><b>📊 Sobre Mí</b></a> •
+  <a href="#-stack-tecnol%C3%B3gico--herramientas"><b>⚙️ Stack</b></a> •
+  <a href="#-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>🚀 Arquitectura</b></a> •
+  <a href="#-vitrina-de-proyectos-destacados-project-showcase"><b>📂 Proyectos</b></a> •
+  <a href="#-conectemos--colaboraciones"><b>🤝 Contacto</b></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/shepro28031628">
     <img src="https://komarev.com/ghpvc/?username=shepro28031628&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile Views"/>
@@ -77,6 +87,38 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## ⚡ Muestra de Código (Data Pipeline Sample)
+
+```python
+# pipeline_example.py - Proceso ETL Automatizado de Ejemplo
+import pandas as pd
+from datetime import datetime
+
+class DataPipeline:
+    def __init__(self, source_url: str):
+        self.source = source_url
+        
+    def extract_and_transform(self) -> pd.DataFrame:
+        """Extrae, limpia y enriquece los datos de entrada."""
+        raw_data = pd.read_csv(self.source)
+        clean_df = raw_data.dropna().drop_duplicates()
+        clean_df['processed_at'] = datetime.utcnow()
+        return clean_df
+
+    def load_to_warehouse(self, df: pd.DataFrame, target_table: str):
+        """Carga los datos procesados a la base de datos empresarial."""
+        print(f"🚀 [ETL] Cargando {len(df)} registros limpios en {target_table}...")
+
+if __name__ == "__main__":
+    pipeline = DataPipeline(source_url="s3://data-warehouse/raw/daily_sales.csv")
+    data = pipeline.extract_and_transform()
+    pipeline.load_to_warehouse(data, target_table="analytics.fact_sales")
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -235,6 +277,24 @@ flowchart LR
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## ❓ Preguntas Frecuentes & Metodología de Trabajo
+
+<details>
+  <summary><b>🛠️ ¿Cuál es mi enfoque de trabajo principal?</b></summary>
+  <br/>
+  Combino las mejores prácticas de <b>Clean Architecture</b>, desarrollo guiado por datos (Data-Driven) y automatización orientada a resultados empresariales escalables.
+</details>
+
+<details>
+  <summary><b>💬 ¿En qué tipo de proyectos suelo participar?</b></summary>
+  <br/>
+  Proyectos de arquitectura e ingeniería de datos, optimización de consultas SQL/NoSQL, construcción de dashboards ejecutivos e integración de APIs con modelos de Inteligencia Artificial.
+</details>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
