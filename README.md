@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./Desarrollador%20web%20trabajando%20en%20proyecto.png" alt="Desarrollador trabajando en proyecto" width="85%" />
+  <img src="./assets/data_developer_workspace.png" alt="Espacio de trabajo Data Developer" width="85%" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 <br/>
 
 <p align="center">
-  <img src="./Desarrollador%20web%20trabajando%20en%20proyecto%20(1).png" alt="Desarrollo web y análisis de datos" width="85%" />
+  <img src="./assets/data_analytics_pipeline.png" alt="Visualización de Pipeline de Datos" width="85%" />
 </p>
 
 ---
