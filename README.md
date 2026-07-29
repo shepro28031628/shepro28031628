@@ -96,12 +96,13 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Reconocimientos & Logros (GitHub Trophies)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Hitos & Badges Destacados
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shepro28031628&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Data%20Engineering-Specialist-00f2fe?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-Analytics-4facfe?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-00c6ff?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
