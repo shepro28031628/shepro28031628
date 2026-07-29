@@ -1,11 +1,11 @@
-# 👋 Hola, soy **Edinsson Gonzalez**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hola, soy **Edinsson Gonzalez**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f2fe&height=200&section=header&text=Edinsson%20Gonzalez&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=220&section=header&text=Edinsson%20Gonzalez&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Big+Data+%7C+Automation;Data+Engineering+%7C+ETL+%2F+ELT+Pipelines;Construyendo+soluciones+escalables+impulsadas+por+datos;Transformando+datos+complejos+en+decisiones+estrat%C3%A9gicas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=880&lines=Data+Analytics+%7C+Big+Data+%7C+Automation;Data+Engineering+%7C+ETL+%2F+ELT+Pipelines;Construyendo+soluciones+escalables+impulsadas+por+datos;Transformando+datos+complejos+en+decisiones+estrat%C3%A9gicas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,15 +15,35 @@
   <a href="https://github.com/shepro28031628?tab=followers">
     <img src="https://img.shields.io/github/followers/shepro28031628?label=Followers&style=for-the-badge&color=4facfe&logo=github" alt="Followers"/>
   </a>
+  <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20para%20Proyectos-success?style=for-the-badge&color=00c6ff" alt="Status" />
 </p>
 
 <p align="center">
   <img src="./assets/data_developer_workspace.png" alt="Espacio de trabajo Data Developer" width="85%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 🧠 Sobre mí & Enfoque Principal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Terminal & Resumen Ejecutivo
+
+```bash
+edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
+
+[INFO] Cargando especialidades...
+🔹 Especialidad: Data Analytics | Data Engineering | Automation | Systems Integration
+🔹 Filosofía: "Transformar datos sin procesar en decisiones estratégicas automatizadas."
+🔹 Estado Actual: Construyendo soluciones de datos de alto impacto & optimizando pipelines ETL.
+
+[STATUS] Todos los sistemas operando al 100% 🚀
+```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> Sobre mí & Enfoque Principal
 
 Soy profesional especializado en **Analítica de Datos, Big Data, Automatización de Procesos e Integración de Sistemas**.
 
@@ -42,9 +62,11 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 🚀 Integración de IA para Optimización Organizacional
 ```
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 🎬 Demostración & Multimedia
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" /> Demostración & Multimedia
 
 <div align="center">
   <h3>🧠 Inteligencia Artificial & Automatización Inteligente</h3>
@@ -64,9 +86,11 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="./assets/data_analytics_pipeline.png" alt="Visualización de Pipeline de Datos" width="85%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 🏆 Reconocimientos & Logros (GitHub Trophies)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> Reconocimientos & Logros (GitHub Trophies)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -74,9 +98,11 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 🛠️ Stack Tecnológico & Herramientas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Gear.png" width="35" /> Stack Tecnológico & Herramientas
 
 <div align="center">
   <h3>💻 Lenguajes & Scripting</h3>
@@ -103,9 +129,11 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   <img src="https://skillicons.dev/icons?i=azure,docker,jenkins,git,github,githubactions,linux,vscode" />
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 🚀 Arquitectura & Flujo de Trabajo (Pipeline de Datos)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Arquitectura & Flujo de Trabajo (Pipeline de Datos)
 
 ```mermaid
 flowchart LR
@@ -129,9 +157,11 @@ flowchart LR
   <b><code>Datos ➔ Procesos ➔ Automatización ➔ Información ➔ Impacto Organizacional</code></b>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 📈 Métricas & Estadísticas de GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" /> Métricas & Gráfico de Actividad
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shepro28031628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
@@ -142,7 +172,13 @@ flowchart LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shepro28031628&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🐍 Gráfico de Contribuciones Animado (Snake Animation)
 
@@ -150,7 +186,36 @@ flowchart LR
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## 📂 Vitrina de Proyectos Destacados (Project Showcase)
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Pipelines & Data Analytics
+- 🔄 **ETL Automated Engine**: Procesamiento masivo de fuentes de datos con Python y SQL.
+- 📈 **BI Executive Dashboard**: Visualizaciones interactivas de métricas clave de negocio.
+- 🗄️ **Modelado Multidimensional**: Diseño de esquemas en estrella y copo de nieve.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automatización & Cloud
+- 🤖 **Intelligent Workflow Automation**: Integración de APIs e IA para automatizar flujos complejos.
+- 🐳 **Dockerized Services**: Microservicios de datos aislados y desplegados mediante CI/CD.
+- ☁️ **Cloud Data Operations**: Integración de pipelines en entornos Azure.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 📊 Pilares de Especialización
 
@@ -191,19 +256,11 @@ Conexión de APIs, microservicios y sistemas heterogéneos para interoperabilida
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## 📂 Áreas de Desarrollo & Proyectos
-
-* 📊 **Data Analytics & BI**: Cuadros de mando, reportes interactivos y modelos analíticos.
-* 🔄 **ETL & Data Pipelines**: Arquitecturas de extracción, limpieza y procesamiento masivo.
-* ⚙️ **Process Automation**: Flujos automatizados para reducir tiempos operativos.
-* 🔗 **Systems Integration**: Conexión e intercambio seguro de datos vía REST APIs y microservicios.
-* 🧠 **AI & Smart Workflows**: Implementación de modelos de IA para optimizar la toma de decisiones.
-
----
-
-## 🤝 Conectemos
+## 🤝 Conectemos & Colaboraciones
 
 <p align="center">
   <a href="https://github.com/shepro28031628">
@@ -211,6 +268,9 @@ Conexión de APIs, microservicios y sistemas heterogéneos para interoperabilida
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
