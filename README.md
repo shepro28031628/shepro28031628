@@ -12,8 +12,9 @@
 <p align="center">
   <a href="#computer-terminal--resumen-ejecutivo"><b>:computer: Resumen</b></a> •
   <a href="#bar_chart-sobre-m%C3%AD--enfoque-principal"><b>:bar_chart: Sobre Mí</b></a> •
-  <a href="#gear-stack-tecnol%C3%B3gico--herramientas"><b>:gear: Stack</b></a> •
-  <a href="#rocket-arquitectura--flujo-de-trabajo-pipeline-de-datos"><b>:rocket: Arquitectura</b></a> •
+  <a href="#trophy-muro-de-logros--trofeos-github"><b>:trophy: Trofeos</b></a> •
+  <a href="#sparkles-dashboard-de-m%C3%A9tricas--actividad-github"><b>:bar_chart: Métricas</b></a> •
+  <a href="#art-galer%C3%ADa-de-contribuciones-animadas--3d"><b>:art: Animaciones 3D</b></a> •
   <a href="#file_folder-vitrina-de-proyectos-destacados-project-showcase"><b>:file_folder: Proyectos</b></a> •
   <a href="#handshake-conectemos--colaboraciones"><b>:handshake: Contacto</b></a>
 </p>
@@ -250,6 +251,18 @@ flowchart LR
   <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
 </p>
 
+## :trophy: Muro de Logros & Trofeos GitHub
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shepro28031628&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" width="100%" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ## :sparkles: Dashboard de Métricas & Actividad GitHub
 
 <table width="100%" align="center">
@@ -262,8 +275,11 @@ flowchart LR
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8&layout=compact" />
     </td>
   </tr>
 </table>
@@ -276,11 +292,22 @@ flowchart LR
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## :snake: Gráfico de Contribuciones Animado (Snake Animation)
+## :art: Galería de Contribuciones Animadas & 3D
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <h4>:snake: Snake Contribution Animation</h4>
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <h4>:cityscape: 3D Isometric Contribution Graph</h4>
+      <img src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
