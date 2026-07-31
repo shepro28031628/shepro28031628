@@ -251,13 +251,18 @@ flowchart LR
   <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
 </p>
 
-## :trophy: Muro de Logros & Trofeos GitHub
+## :trophy: Resumen de Rendimiento & Estadísticas GitHub
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shepro28031628&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" width="100%" alt="GitHub Trophies" />
-  </a>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shepro28031628&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shepro28031628&theme=tokyonight" alt="GitHub Stats Summary" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -268,24 +273,24 @@ flowchart LR
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shepro28031628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" />
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shepro28031628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shepro28031628&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=8" />
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shepro28031628&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=8" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8&layout=compact" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepro28031628&theme=tokyonight" alt="Productive Time" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shepro28031628&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shepro28031628&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
