@@ -1,5 +1,5 @@
-# Sitios que bloquean a los verificadores automáticos (responden 403/999)
-# aunque funcionan bien en el navegador.
+# LinkedIn responde 999 a cualquier verificador automático.
 ^https://www\.linkedin\.com/
-^https://www\.linux\.org/
-^https://www\.w3schools\.com/
+
+# Contador de visitas: cada verificación sumaría una visita falsa.
+^https://komarev\.com/ghpvc/

@@ -236,10 +236,10 @@ flowchart LR
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shepro28031628&theme=tokyonight" alt="Profile Details" />
+      <img width="100%" src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalles del perfil" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shepro28031628&theme=tokyonight" alt="GitHub Stats Summary" />
+      <img width="100%" src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Resumen de estadísticas" />
     </td>
   </tr>
 </table>
@@ -253,10 +253,10 @@ flowchart LR
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shepro28031628&theme=tokyonight" alt="Lenguajes por repositorio" />
+      <img width="100%" src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Lenguajes por repositorio" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shepro28031628&theme=tokyonight" alt="Lenguajes por commits" />
+      <img width="100%" src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes por commits" />
     </td>
   </tr>
   <tr>
@@ -264,7 +264,7 @@ flowchart LR
       <img width="100%" src="https://streak-stats.demolab.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" alt="Racha de contribuciones" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepro28031628&theme=tokyonight" alt="Horario más productivo" />
+      <img width="100%" src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horario más productivo" />
     </td>
   </tr>
 </table>
