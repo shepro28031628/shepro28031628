@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: DavidAnson/markdownlint-cli2-action@v25
         with:
           globs: |
@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Verificar enlaces
         id: lychee
         uses: lycheeverse/lychee-action@v2

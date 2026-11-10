@@ -54,7 +54,7 @@ jobs:
       # Si un paso anterior falla no se publica nada y la rama `output`
       # conserva la última versión buena.
       - name: Publicar en la rama output
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
