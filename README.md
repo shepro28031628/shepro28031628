@@ -1,7 +1,7 @@
 # :wave: Hola, soy **Edinsson Gonzalez**
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:00f2fe,100:4facfe&height=150&section=header&text=Edinsson%20Gonzalez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36" alt="Edinsson Gonzalez" />
 </p>
 
 <p align="center">
@@ -106,10 +106,10 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 ## :trophy: Hitos & Especializaciones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-Specialist-00f2fe?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big%20Data-Analytics-4facfe?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-00c6ff?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Specialist-00f2fe?style=for-the-badge&logo=python&logoColor=white" alt="Data Engineering Specialist" />
+  <img src="https://img.shields.io/badge/Big%20Data-Analytics-4facfe?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data Analytics" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-00c6ff?style=for-the-badge&logo=docker&logoColor=white" alt="Automation Workflows" />
+  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Active Developer" />
 </p>
 
 <blockquote align="center">
@@ -155,11 +155,11 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 
   <h3>📊 Data Analytics, BI & Engineering</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge&logo=alteryx&logoColor=white" />
-    <img src="https://img.shields.io/badge/KNIME-F5C400?style=for-the-badge&logo=knime&logoColor=black" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
+    <img src="https://img.shields.io/badge/KNIME-F5C400?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   </p>
 
   <h3>🗄️ Bases de Datos & Almacenamiento</h3>
@@ -361,7 +361,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:0d1117&height=100&section=footer" alt="" />
 </p>
 
 <p align="center">

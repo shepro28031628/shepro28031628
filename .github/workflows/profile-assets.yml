@@ -1,8 +1,8 @@
 name: Profile assets
 
-# Genera la serpiente y el gráfico 3D de contribuciones y los publica en la
-# rama `output`. Así `main` no recibe commits automáticos diarios y nunca
-# tendrás que hacer `git pull` antes de subir tus propios cambios.
+# Genera la serpiente, el gráfico 3D y las tarjetas de estadísticas y los
+# publica en la rama `output`. Así `main` no recibe commits automáticos y el
+# README no depende de servicios externos que pueden caerse.
 
 on:
   schedule:
@@ -38,8 +38,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Generar tarjetas de estadísticas
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          TIME_ZONE: America/Bogota # zona horaria de la tarjeta "horario productivo"
+          AUTO_PUSH: false
+
       - name: Reunir archivos
-        run: cp -r profile-3d-contrib dist/
+        run: cp -r profile-3d-contrib profile-summary-card-output dist/
 
       # Si un paso anterior falla no se publica nada y la rama `output`
       # conserva la última versión buena.

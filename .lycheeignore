@@ -1,0 +1,5 @@
+# Sitios que bloquean a los verificadores automáticos (responden 403/999)
+# aunque funcionan bien en el navegador.
+^https://www\.linkedin\.com/
+^https://www\.linux\.org/
+^https://www\.w3schools\.com/

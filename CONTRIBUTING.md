@@ -11,6 +11,19 @@
 5. **Haz Push a la Rama** (`git push origin feature/NuevaFuncionalidad`).
 6. **Abre un Pull Request**.
 
+## 📝 Mensajes de Commit
+
+Usa [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/): `tipo: descripción breve` en imperativo.
+
+| Tipo | Cuándo usarlo | Ejemplo |
+| --- | --- | --- |
+| `feat` | Nueva sección o funcionalidad | `feat: añadir sección de certificaciones` |
+| `fix` | Corregir algo roto | `fix: reparar enlace de LinkedIn` |
+| `docs` | Cambios de texto o documentación | `docs: actualizar descripción de proyectos` |
+| `style` | Ajustes visuales sin cambiar contenido | `style: alinear badges del stack` |
+| `ci` | Workflows de GitHub Actions | `ci: actualizar action del gráfico 3D` |
+| `chore` | Mantenimiento (imágenes, configuración) | `chore: optimizar imágenes` |
+
 ## 📐 Estándares de Código
 
 - Utiliza convenciones de nombres claras y explicativas.
