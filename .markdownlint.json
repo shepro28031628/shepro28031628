@@ -1,5 +1,6 @@
 {
   "default": true,
+  "MD013": false,
   "MD033": {
     "allowed_elements": [
       "div",
@@ -10,14 +11,21 @@
       "h4",
       "a",
       "img",
+      "picture",
+      "source",
       "span",
       "details",
       "summary",
+      "blockquote",
       "table",
       "tr",
       "th",
       "td",
-      "br"
+      "br",
+      "b",
+      "i",
+      "sub",
+      "code"
     ]
   }
 }

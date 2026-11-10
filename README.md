@@ -12,8 +12,8 @@
 <p align="center">
   <a href="#computer-terminal--resumen-ejecutivo"><b>:computer: Resumen</b></a> •
   <a href="#bar_chart-sobre-m%C3%AD--enfoque-principal"><b>:bar_chart: Sobre Mí</b></a> •
-  <a href="#trophy-muro-de-logros--trofeos-github"><b>:trophy: Trofeos</b></a> •
-  <a href="#sparkles-dashboard-de-m%C3%A9tricas--actividad-github"><b>:bar_chart: Métricas</b></a> •
+  <a href="#gear-stack-tecnol%C3%B3gico--herramientas"><b>:gear: Stack</b></a> •
+  <a href="#sparkles-dashboard-de-m%C3%A9tricas--actividad-github"><b>:chart_with_upwards_trend: Métricas</b></a> •
   <a href="#art-galer%C3%ADa-de-contribuciones-animadas--3d"><b>:art: Animaciones 3D</b></a> •
   <a href="#file_folder-vitrina-de-proyectos-destacados-project-showcase"><b>:file_folder: Proyectos</b></a> •
   <a href="#handshake-conectemos--colaboraciones"><b>:handshake: Contacto</b></a>
@@ -31,10 +31,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edinsson-gonzalez">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Perfil%20Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Perfil%20Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@dominio.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-Contacto%20Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:edinssong80@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-Contacto%20Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -42,18 +42,18 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/1.jpg" width="100%" style="border-radius: 8px;" />
+      <img src="./assets/1.jpg" width="100%" alt="Persona con visor de realidad virtual" />
       <br/><sub><b>💻 Data Workspace & Entorno de Trabajo</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/2.gif" width="100%" style="border-radius: 8px;" />
+      <img src="./assets/2.gif" width="100%" alt="Animación de visualización de datos" />
       <br/><sub><b>🔄 Visualización & Pipeline de Datos (Animado)</b></sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :computer: Terminal & Resumen Ejecutivo
@@ -70,7 +70,7 @@ edinsson@data-terminal:~$ init_profile.sh --user="Edinsson Gonzalez"
 ```
 
 <p align="center">
-  <img src="./assets/data_developer_workspace.gif" width="50%" style="border-radius: 8px;" />
+  <img src="./assets/data_developer_workspace.webp" width="50%" alt="Animación de interfaz tecnológica tipo HUD" />
   <br/><sub><b>⚡ Entorno & Terminal de Ingeniero de Datos (Animado)</b></sub>
 </p>
 
@@ -100,26 +100,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-## :robot: Demostración & Multimedia
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🧠 Inteligencia Artificial & Automatización</h4>
-      <video src="./inteligencia%20artificial.mp4" width="100%" controls autoplay loop muted style="border-radius: 8px;"></video>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🎨 Diseño UI/UX & Experiencia de Usuario</h4>
-      <video src="./Dise%C3%B1o%20de%20interfaz%20de%20usuario%20y%20experiencia%20de%20usuario.mp4" width="100%" controls autoplay loop muted style="border-radius: 8px;"></video>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :trophy: Hitos & Especializaciones
@@ -136,7 +117,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 </blockquote>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :gear: Stack Tecnológico & Herramientas
@@ -144,7 +125,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 <div align="center">
   <h3>🛠️ Lenguajes & Herramientas (Languages & Tools)</h3>
   <p align="center">
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+    <a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -158,13 +139,13 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -182,17 +163,16 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
   </p>
 
   <h3>🗄️ Bases de Datos & Almacenamiento</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="MySQL, PostgreSQL, MongoDB, SQLite" />
 
   <br/><br/>
 
   <h3>☁️ Cloud, DevOps & Automatización</h3>
-  <img src="https://skillicons.dev/icons?i=azure,docker,jenkins,git,github,githubactions,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,jenkins,git,github,githubactions,linux,vscode" alt="Azure, Docker, Jenkins, Git, GitHub, GitHub Actions, Linux, VS Code" />
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :shield: Metodologías & Prácticas de Ingeniería
@@ -219,7 +199,7 @@ Actualmente fortalezco mi perfil hacia **Data Engineering, Analytics Engineering
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :rocket: Arquitectura & Flujo de Trabajo (Pipeline de Datos)
@@ -247,11 +227,11 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="./assets/data_analytics_pipeline.gif" width="50%" style="border-radius: 8px;" />
+  <img src="./assets/data_analytics_pipeline.webp" width="50%" alt="Animación de rostro digital con circuitos de datos" />
   <br/><sub><b>📊 Analytics & Flujo de Transformaciones (Animado)</b></sub>
 </p>
 
-## :trophy: Resumen de Rendimiento & Estadísticas GitHub
+## :chart_with_upwards_trend: Resumen de Rendimiento & Estadísticas GitHub
 
 <table width="100%" align="center">
   <tr>
@@ -265,7 +245,7 @@ flowchart LR
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :sparkles: Dashboard de Métricas & Actividad GitHub
@@ -273,28 +253,24 @@ flowchart LR
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shepro28031628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shepro28031628&theme=tokyonight" alt="Lenguajes por repositorio" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shepro28031628&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=8" alt="Top Languages" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shepro28031628&theme=tokyonight" alt="Lenguajes por commits" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=shepro28031628&theme=tokyonight&hide_border=true&border_radius=8" alt="Racha de contribuciones" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepro28031628&theme=tokyonight" alt="Productive Time" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepro28031628&theme=tokyonight" alt="Horario más productivo" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shepro28031628&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :art: Galería de Contribuciones Animadas & 3D
@@ -303,19 +279,23 @@ flowchart LR
   <tr>
     <td width="100%" align="center" valign="top">
       <h4>:snake: Snake Contribution Animation</h4>
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/github-contribution-grid-snake.svg" />
+        <img src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/github-contribution-grid-snake-dark.svg" alt="Serpiente comiéndose mi gráfico de contribuciones" width="100%"/>
+      </picture>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center" valign="top">
       <h4>:cityscape: 3D Isometric Contribution Graph</h4>
-      <img src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%"/>
+      <img src="https://raw.githubusercontent.com/shepro28031628/shepro28031628/output/profile-3d-contrib/profile-night-view.svg" alt="Gráfico isométrico 3D de mis contribuciones" width="100%"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :file_folder: Vitrina de Proyectos Destacados (Project Showcase)
@@ -324,25 +304,31 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Pipelines & Data Analytics
-- 🔄 **ETL Automated Engine**: Procesamiento masivo de fuentes de datos con Python y SQL.
-- 📈 **BI Executive Dashboard**: Visualizaciones interactivas de métricas clave de negocio.
-- 🗄️ **Modelado Multidimensional**: Diseño de esquemas en estrella y copo de nieve.
+### 📊 Datos, Monitoreo & BI
+
+- 📡 **[Monitor-red](https://github.com/shepro28031628/Monitor-red)**: Telemetría de red en tiempo real (CPU, RAM, interfaces WAN), auditoría de sesiones VPN/DHCP, sincronización con Jira Assets y alertas SMTP.<br/><sub>Next.js · Chart.js · Redis · BullMQ</sub>
+- 🚀 **[Test-de-Velocidad](https://github.com/shepro28031628/Test-de-Velocidad)**: Monitoreo continuo de la calidad de red con detección de anomalías mediante IA, alertas por correo y telemetría para Windows.<br/><sub>Vue</sub>
+- 📈 **[KPI-SIACO](https://github.com/shepro28031628/KPI-SIACO)**: Portal central de dashboards de KPIs para torres de control de comercio exterior (COMEX).<br/><sub>HTML · Dashboards</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automatización & Cloud
-- 🤖 **Intelligent Workflow Automation**: Integración de APIs e IA para automatizar flujos complejos.
-- 🐳 **Dockerized Services**: Microservicios de datos aislados y desplegados mediante CI/CD.
-- ☁️ **Cloud Data Operations**: Integración de pipelines en entornos Azure.
+### ⚙️ Automatización, Cloud & Apps
+
+- ☁️ **[AWS-LOCAL](https://github.com/shepro28031628/AWS-LOCAL)**: Emulador local de AWS con Docker para practicar S3, DynamoDB, SQS, Lambda y RDS sin cuenta ni costos.<br/><sub>Java · Docker</sub>
+- 🎓 **[Gestor-de-Asistencia-Universidad](https://github.com/shepro28031628/Gestor-de-Asistencia-Universidad)**: Registro de asistencia anti-fraude con geofencing y gestión de préstamos de equipos TI.<br/><sub>HTML</sub>
+- 🛒 **[UNIPAHUMARKET](https://github.com/shepro28031628/UNIPAHUMARKET)**: E-commerce full stack que conecta emprendimientos locales con compradores.<br/><sub>React · Vite · FastAPI</sub>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <a href="https://github.com/shepro28031628?tab=repositories"><b>📂 Ver todos mis repositorios →</b></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :question: Preguntas Frecuentes & Metodología de Trabajo
@@ -360,17 +346,17 @@ flowchart LR
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </p>
 
 ## :handshake: Conectemos & Colaboraciones
 
 <p align="center">
   <a href="https://github.com/shepro28031628">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/edinsson-gonzalez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
