@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+<title id="title">Edinsson Gonzalez · Ingeniero de Desarrollo de Software</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f2236"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f2fe"/><stop offset="1" stop-color="#4facfe"/>
+  </linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f2fe"/><stop offset="1" stop-color="#4facfe"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.3" fill="#00f2fe" fill-opacity="0.10"/>
+  </pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+  <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, "Cascadia Code", Consolas, "Liberation Mono", monospace; }
+  .hand { transform-box: fill-box; transform-origin: 70% 85%; animation: wave-hand 2.6s ease-in-out infinite; }
+  .float { animation: float 5s ease-in-out infinite; }
+  .steam { animation: steam 3s ease-in-out infinite; opacity: 0; }
+  .leaves { transform-origin: 1112px 206px; animation: sway 4.5s ease-in-out infinite alternate; }
+  .tail { transform-origin: 790px 238px; animation: tail 2.8s ease-in-out infinite alternate; }
+  .breath { transform-box: fill-box; transform-origin: 50% 100%; animation: breath 3.2s ease-in-out infinite; }
+  .cursor { animation: blink 1s steps(1) infinite; }
+  .wave-a { animation: drift 16s linear infinite; }
+  .wave-b { animation: drift 24s linear infinite reverse; }
+  @keyframes wave-hand { 0%, 60%, 100% { transform: rotate(0); } 10%, 30% { transform: rotate(14deg); } 20% { transform: rotate(-8deg); } 40% { transform: rotate(-4deg); } 50% { transform: rotate(10deg); } }
+  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+  @keyframes steam { 0% { opacity: 0; transform: translateY(6px); } 40% { opacity: .8; } 100% { opacity: 0; transform: translateY(-12px); } }
+  @keyframes sway { from { transform: rotate(-3deg); } to { transform: rotate(3deg); } }
+  @keyframes tail { from { transform: rotate(-7deg); } to { transform: rotate(5deg); } }
+  @keyframes breath { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(1.05); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+  @keyframes l0 { 0%, 3.3% { opacity: 0; } 7.1%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l0 { animation: l0 12s ease-out -5.5s infinite; }
+  @keyframes l1 { 0%, 9.2% { opacity: 0; } 12.9%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l1 { animation: l1 12s ease-out -5.5s infinite; }
+  @keyframes l2 { 0%, 15.0% { opacity: 0; } 18.8%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l2 { animation: l2 12s ease-out -5.5s infinite; }
+  @keyframes l3 { 0%, 20.8% { opacity: 0; } 24.6%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l3 { animation: l3 12s ease-out -5.5s infinite; }
+  @keyframes l4 { 0%, 26.7% { opacity: 0; } 30.4%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l4 { animation: l4 12s ease-out -5.5s infinite; }
+  @keyframes l5 { 0%, 32.5% { opacity: 0; } 36.2%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l5 { animation: l5 12s ease-out -5.5s infinite; }
+  @keyframes l6 { 0%, 38.3% { opacity: 0; } 42.1%, 88% { opacity: 1; } 94%, 100% { opacity: 0; } }
+  .l6 { animation: l6 12s ease-out -5.5s infinite; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .steam { opacity: .6; } }
+</style>
+
+<g clip-path="url(#card)">
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <circle cx="960" cy="40" r="170" fill="#00f2fe" fill-opacity=".16" filter="url(#blur)"/>
+  <circle cx="110" cy="310" r="150" fill="#4facfe" fill-opacity=".12" filter="url(#blur)"/>
+
+  <!-- Presentación -->
+  <text x="64" y="84" font-size="22" font-weight="500" fill="#9198a1">¡Hola! Soy</text>
+  <text x="180" y="86" font-size="26" class="hand">👋</text>
+  <text x="62" y="142" font-size="54" font-weight="800" letter-spacing="-0.5" fill="#f0f6fc">Edinsson Gonzalez</text>
+  <text x="64" y="184" font-size="26" font-weight="700" fill="url(#accent)">Ingeniero de Desarrollo de Software</text>
+  <text x="64" y="216" font-size="17" fill="#9198a1">Desarrollo de software · Datos · Automatización</text>
+  <rect x="64" y="234" width="106" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="117" y="254" font-size="14" text-anchor="middle" fill="#c9d1d9">📍 Colombia</text>
+  <rect x="180" y="234" width="235" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="298" y="254" font-size="14" text-anchor="middle" fill="#c9d1d9">🚀 Disponible para proyectos</text>
+  <rect x="425" y="234" width="159" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+  <text x="505" y="254" font-size="14" text-anchor="middle" fill="#c9d1d9">☕ Código con café</text>
+
+  <!-- Símbolos flotantes -->
+  <text x="730" y="84" font-size="20" font-weight="700" class="mono float" fill="#00f2fe" fill-opacity=".75" text-anchor="middle">&lt;/&gt;</text>
+  <text x="1124" y="88" font-size="20" font-weight="700" class="mono float" style="animation-delay:-1.6s" fill="#00f2fe" fill-opacity=".75" text-anchor="middle">{ }</text>
+  <text x="762" y="136" font-size="15" font-weight="700" class="mono float" style="animation-delay:-3.2s" fill="#00f2fe" fill-opacity=".6" text-anchor="middle">SQL</text>
+
+  <!-- Escritorio -->
+  <rect x="690" y="248" width="480" height="10" rx="5" fill="#5b4636"/>
+
+  <!-- Monitor con código que se escribe solo -->
+  <rect x="800" y="46" width="270" height="172" rx="12" fill="#1f2937" stroke="#374151" stroke-width="2"/>
+  <rect x="810" y="56" width="250" height="152" rx="6" fill="#0b1220"/>
+  <circle cx="824" cy="70" r="4" fill="#ff5f56"/><circle cx="837" cy="70" r="4" fill="#ffbd2e"/><circle cx="850" cy="70" r="4" fill="#27c93f"/>
+  <g class="line l0"><rect x="824" y="90" width="26" height="7" rx="3.5" fill="#ff79c6"/><rect x="856" y="90" width="64" height="7" rx="3.5" fill="#8be9fd"/><rect x="924" y="90" width="16" height="7" rx="3.5" fill="#bd93f9"/></g>
+  <g class="line l1"><rect x="838" y="105" width="34" height="7" rx="3.5" fill="#e6edf3"/><rect x="878" y="105" width="18" height="7" rx="3.5" fill="#bd93f9"/><rect x="902" y="105" width="62" height="7" rx="3.5" fill="#8be9fd"/></g>
+  <g class="line l2"><rect x="838" y="120" width="34" height="7" rx="3.5" fill="#e6edf3"/><rect x="878" y="120" width="18" height="7" rx="3.5" fill="#bd93f9"/><rect x="902" y="120" width="48" height="7" rx="3.5" fill="#8be9fd"/><rect x="956" y="120" width="40" height="7" rx="3.5" fill="#f1fa8c"/></g>
+  <g class="line l3"><rect x="838" y="135" width="22" height="7" rx="3.5" fill="#ff79c6"/><rect x="866" y="135" width="40" height="7" rx="3.5" fill="#e6edf3"/><rect x="912" y="135" width="14" height="7" rx="3.5" fill="#bd93f9"/><rect x="932" y="135" width="30" height="7" rx="3.5" fill="#50fa7b"/></g>
+  <g class="line l4"><rect x="852" y="150" width="56" height="7" rx="3.5" fill="#8be9fd"/><rect x="914" y="150" width="70" height="7" rx="3.5" fill="#f1fa8c"/></g>
+  <g class="line l5"><rect x="838" y="165" width="40" height="7" rx="3.5" fill="#ff79c6"/><rect x="884" y="165" width="50" height="7" rx="3.5" fill="#e6edf3"/></g>
+  <g class="line l6"><rect x="824" y="180" width="120" height="7" rx="3.5" fill="#6272a4"/></g>
+  <rect x="824" y="193" width="7" height="11" rx="1" fill="#e6edf3" class="cursor"/>
+  <rect x="920" y="218" width="30" height="22" fill="#374151"/>
+  <rect x="895" y="238" width="80" height="10" rx="5" fill="#1f2937"/>
+
+  <!-- Taza de café -->
+  <g fill="none" stroke="#9198a1" stroke-width="3" stroke-linecap="round">
+    <path class="steam" d="M726,198 q-6,-8 0,-15 t0,-15"/>
+    <path class="steam" style="animation-delay:1s" d="M735,196 q-6,-8 0,-15 t0,-15"/>
+    <path class="steam" style="animation-delay:2s" d="M744,198 q-6,-8 0,-15 t0,-15"/>
+  </g>
+  <path d="M754,216 h6 a10,10 0 0 1 0,20 h-6" fill="none" stroke="#4facfe" stroke-width="5"/>
+  <rect x="716" y="206" width="38" height="42" rx="7" fill="#4facfe"/>
+  <ellipse cx="735" cy="209" rx="15" ry="3.5" fill="#6b4226"/>
+  <text x="735" y="234" font-size="13" font-weight="700" class="mono" fill="#ffffff" text-anchor="middle">{ }</text>
+
+  <!-- Gato dormido -->
+  <path class="tail" d="M790,238 C770,246 780,258 812,251" fill="none" stroke="#c9d1d9" stroke-width="7" stroke-linecap="round"/>
+  <g class="breath">
+    <ellipse cx="822" cy="234" rx="36" ry="15" fill="#c9d1d9"/>
+    <path d="M806,222 q4,6 0,12 M818,220 q4,7 0,14 M830,221 q4,6 0,12" fill="none" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <path d="M846,224 L848,207 L858,219 Z M856,219 L867,207 L869,225 Z" fill="#c9d1d9"/>
+  <path d="M849,219 L850,212 L854,217 Z M861,217 L865,212 L866,219 Z" fill="#f9a8d4"/>
+  <circle cx="857" cy="232" r="13" fill="#c9d1d9"/>
+  <path d="M849,231 q3,3 6,0 M859,231 q3,3 6,0" fill="none" stroke="#30363d" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M855.5,236 h3 l-1.5,1.8 Z" fill="#f472b6"/>
+
+  <!-- Planta -->
+  <g class="leaves">
+    <path d="M1112,206 C1100,186 1096,170 1102,150 C1112,168 1116,186 1112,206 Z" fill="#2ea043"/>
+    <path d="M1112,206 C1124,184 1134,172 1148,166 C1142,186 1128,198 1112,206 Z" fill="#3fb950"/>
+    <path d="M1112,206 C1092,196 1080,186 1074,170 C1092,174 1104,188 1112,206 Z" fill="#3fb950"/>
+    <path d="M1112,206 C1114,184 1120,166 1132,150 C1132,172 1124,192 1112,206 Z" fill="#2ea043"/>
+  </g>
+  <path d="M1092,212 h40 l-6,36 h-28 Z" fill="#e07a5f"/>
+  <rect x="1086" y="204" width="52" height="10" rx="3" fill="#c8644a"/>
+
+  <!-- Olas -->
+  <g fill="url(#wave)" fill-opacity="0.55">
+    <path class="wave-a" d="M0,282 Q75.0,275 150.0,282 T300,282 T450,282 T600,282 T750,282 T900,282 T1050,282 T1200,282 T1350,282 T1500,282 T1650,282 T1800,282 T1950,282 T2100,282 T2250,282 T2400,282 V300 H0 Z"/>
+    <path class="wave-b" fill-opacity=".6" d="M0,288 Q100.0,283 200.0,288 T400,288 T600,288 T800,288 T1000,288 T1200,288 T1400,288 T1600,288 T1800,288 T2000,288 T2200,288 T2400,288 V300 H0 Z"/>
+  </g>
+</g>
+</svg>

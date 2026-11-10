@@ -1,7 +1,8 @@
 name: Profile assets
 
-# Genera la serpiente, el gráfico 3D y las tarjetas de estadísticas y los
-# publica en la rama `output`. Así `main` no recibe commits automáticos y el
+# Genera el gráfico de actividad (pipeline propio), los juegos arcade, la
+# serpiente, el gráfico 3D y las tarjetas de estadísticas, y los publica en la
+# rama `output`. Así `main` no recibe commits automáticos y el
 # README no depende de servicios externos que pueden caerse.
 
 on:
@@ -22,8 +23,16 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
+      - uses: actions/checkout@v6
+
+      # Pipeline ETL propio: API de GitHub → Python → SVG + JSON.
+      - name: Pipeline de actividad (extract → transform → load)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/activity_pipeline.py --user "${{ github.repository_owner }}" --out dist/activity
+
       - name: Generar serpiente de contribuciones
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,6 +40,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Pac-Man, Breakout y Galaga jugando sobre el gráfico de contribuciones.
+      - name: Generar juegos arcade
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman,breakout,galaga
 
       - name: Generar gráfico 3D de contribuciones
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
