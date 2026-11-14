@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-labelledby="t d">
+<title id="t">Commits por semana y lenguaje en los últimos 12 meses</title>
+<desc id="d">384 commits en 27 de 52 semanas, en 16 repositorios. HTML: 247, Vue: 51, Python: 47, TypeScript: 16, JavaScript: 11, Otros: 12</desc>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;}
+.bar{transform-box:fill-box;transform-origin:50% 100%;animation:grow .8s cubic-bezier(.2,.7,.2,1) both;}
+@keyframes grow{from{transform:scaleY(0);}}
+@media (prefers-reduced-motion:reduce){.bar{animation:none;}}
+</style>
+<rect x=".5" y=".5" width="879" height="339" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Commits por semana y lenguaje</text>
+<text x="856" y="38" font-size="12" text-anchor="end" fill="#9198a1">Últimos 12 meses</text>
+<text x="24" y="58" font-size="12" fill="#9198a1">Generado a diario por mi pipeline: API de GitHub → Python → SVG · actualizado el 14 nov 2026</text>
+<rect x="24.0" y="74" width="199.0" height="58" rx="8" fill="#0d1117"/>
+<text x="38.0" y="96" font-size="12" fill="#9198a1">Commits</text>
+<text x="38.0" y="121" font-size="20" font-weight="600" fill="#f0f6fc">384</text>
+<rect x="235.0" y="74" width="199.0" height="58" rx="8" fill="#0d1117"/>
+<text x="249.0" y="96" font-size="12" fill="#9198a1">Semanas activas</text>
+<text x="249.0" y="121" font-size="20" font-weight="600" fill="#f0f6fc">27 / 52</text>
+<rect x="446.0" y="74" width="199.0" height="58" rx="8" fill="#0d1117"/>
+<text x="460.0" y="96" font-size="12" fill="#9198a1">Racha más larga</text>
+<text x="460.0" y="121" font-size="20" font-weight="600" fill="#f0f6fc">12 semanas</text>
+<rect x="657.0" y="74" width="199.0" height="58" rx="8" fill="#0d1117"/>
+<text x="671.0" y="96" font-size="12" fill="#9198a1">Repositorios</text>
+<text x="671.0" y="121" font-size="20" font-weight="600" fill="#f0f6fc">16</text>
+<rect x="24" y="151" width="10" height="10" rx="2" fill="#3987e5"/>
+<text x="40" y="160" font-size="12" fill="#9198a1">HTML <tspan fill="#f0f6fc" font-weight="600">247</tspan></text>
+<rect x="110.8" y="151" width="10" height="10" rx="2" fill="#d95926"/>
+<text x="126.8" y="160" font-size="12" fill="#9198a1">Vue <tspan fill="#f0f6fc" font-weight="600">51</tspan></text>
+<rect x="184.39999999999998" y="151" width="10" height="10" rx="2" fill="#199e70"/>
+<text x="200.39999999999998" y="160" font-size="12" fill="#9198a1">Python <tspan fill="#f0f6fc" font-weight="600">47</tspan></text>
+<rect x="277.79999999999995" y="151" width="10" height="10" rx="2" fill="#c98500"/>
+<text x="293.79999999999995" y="160" font-size="12" fill="#9198a1">TypeScript <tspan fill="#f0f6fc" font-weight="600">16</tspan></text>
+<rect x="397.59999999999997" y="151" width="10" height="10" rx="2" fill="#d55181"/>
+<text x="413.59999999999997" y="160" font-size="12" fill="#9198a1">JavaScript <tspan fill="#f0f6fc" font-weight="600">11</tspan></text>
+<rect x="517.4" y="151" width="10" height="10" rx="2" fill="#6e7681"/>
+<text x="533.4" y="160" font-size="12" fill="#9198a1">Otros <tspan fill="#f0f6fc" font-weight="600">12</tspan></text>
+<line x1="56" x2="856" y1="300.0" y2="300.0" stroke="#30363d"/>
+<text x="48" y="304.0" font-size="11" text-anchor="end" fill="#6e7681">0</text>
+<line x1="56" x2="856" y1="271.5" y2="271.5" stroke="#21262d"/>
+<text x="48" y="275.5" font-size="11" text-anchor="end" fill="#6e7681">20</text>
+<line x1="56" x2="856" y1="243.0" y2="243.0" stroke="#21262d"/>
+<text x="48" y="247.0" font-size="11" text-anchor="end" fill="#6e7681">40</text>
+<line x1="56" x2="856" y1="214.5" y2="214.5" stroke="#21262d"/>
+<text x="48" y="218.5" font-size="11" text-anchor="end" fill="#6e7681">60</text>
+<line x1="56" x2="856" y1="186.0" y2="186.0" stroke="#21262d"/>
+<text x="48" y="190.0" font-size="11" text-anchor="end" fill="#6e7681">80</text>
+<g class="bar" style="animation-delay:180ms"><path d="M212.5,300.0V298.7A3,3 0 0 1 215.5,295.7H219.5A3,3 0 0 1 222.5,298.7V300.0Z" fill="#d55181"/></g>
+<g class="bar" style="animation-delay:198ms"><path d="M227.9,300.0V295.9A3,3 0 0 1 230.9,292.9H234.9A3,3 0 0 1 237.9,295.9V300.0Z" fill="#d95926"/></g>
+<g class="bar" style="animation-delay:216ms"><rect x="243.3" y="294.9" width="10" height="5.1" fill="#d95926"/><path d="M243.3,292.9V290.2A3,3 0 0 1 246.3,287.2H250.3A3,3 0 0 1 253.3,290.2V292.9Z" fill="#199e70"/></g>
+<g class="bar" style="animation-delay:252ms"><path d="M274.1,300.0V300.0A1.425,1.425 0 0 1 275.5,298.6H282.7A1.425,1.425 0 0 1 284.1,300.0V300.0Z" fill="#d95926"/></g>
+<g class="bar" style="animation-delay:414ms"><rect x="412.5" y="287.8" width="10" height="12.2" fill="#3987e5"/><path d="M412.5,285.8V285.8A2.85,2.85 0 0 1 415.4,282.9H419.7A2.85,2.85 0 0 1 422.5,285.8V285.8Z" fill="#6e7681"/></g>
+<g class="bar" style="animation-delay:432ms"><rect x="427.9" y="282.1" width="10" height="17.9" fill="#3987e5"/><path d="M427.9,280.1V280.1A2.85,2.85 0 0 1 430.8,277.2H435.1A2.85,2.85 0 0 1 437.9,280.1V280.1Z" fill="#6e7681"/></g>
+<g class="bar" style="animation-delay:450ms"><path d="M443.3,300.0V283.1A3,3 0 0 1 446.3,280.1H450.3A3,3 0 0 1 453.3,283.1V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:468ms"><path d="M458.7,300.0V213.2A3,3 0 0 1 461.7,210.2H465.7A3,3 0 0 1 468.7,213.2V300.0Z" fill="#3987e5"/></g>
+<text x="463.7" y="204.2" font-size="11" text-anchor="middle" fill="#9198a1">63</text>
+<g class="bar" style="animation-delay:486ms"><path d="M474.1,300.0V300.0A1.425,1.425 0 0 1 475.5,298.6H482.7A1.425,1.425 0 0 1 484.1,300.0V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:504ms"><path d="M489.5,300.0V300.0A2.85,2.85 0 0 1 492.3,297.1H496.6A2.85,2.85 0 0 1 499.5,300.0V300.0Z" fill="#d95926"/></g>
+<g class="bar" style="animation-delay:540ms"><path d="M520.2,300.0V290.2A3,3 0 0 1 523.2,287.2H527.2A3,3 0 0 1 530.2,290.2V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:558ms"><path d="M535.6,300.0V300.0A1.425,1.425 0 0 1 537.0,298.6H544.2A1.425,1.425 0 0 1 545.6,300.0V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:576ms"><path d="M551.0,300.0V284.5A3,3 0 0 1 554.0,281.5H558.0A3,3 0 0 1 561.0,284.5V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:594ms"><path d="M566.4,300.0V295.9A3,3 0 0 1 569.4,292.9H573.4A3,3 0 0 1 576.4,295.9V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:612ms"><rect x="581.8" y="279.2" width="10" height="20.8" fill="#3987e5"/><path d="M581.8,277.2V261.7A3,3 0 0 1 584.8,258.7H588.8A3,3 0 0 1 591.8,261.7V277.2Z" fill="#d95926"/></g>
+<g class="bar" style="animation-delay:630ms"><path d="M597.2,300.0V278.8A3,3 0 0 1 600.2,275.8H604.2A3,3 0 0 1 607.2,278.8V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:648ms"><rect x="612.5" y="284.9" width="10" height="15.1" fill="#3987e5"/><rect x="612.5" y="263.5" width="10" height="19.4" fill="#d95926"/><rect x="612.5" y="227.9" width="10" height="33.6" fill="#199e70"/><path d="M612.5,225.9V225.9A2.85,2.85 0 0 1 615.4,223.0H619.7A2.85,2.85 0 0 1 622.5,225.9V225.9Z" fill="#d55181"/></g>
+<g class="bar" style="animation-delay:666ms"><rect x="627.9" y="296.3" width="10" height="3.7" fill="#3987e5"/><rect x="627.9" y="284.9" width="10" height="9.4" fill="#d95926"/><path d="M627.9,282.9V266.0A3,3 0 0 1 630.9,263.0H634.9A3,3 0 0 1 637.9,266.0V282.9Z" fill="#c98500"/></g>
+<g class="bar" style="animation-delay:684ms"><rect x="643.3" y="262.1" width="10" height="37.9" fill="#3987e5"/><rect x="643.3" y="253.6" width="10" height="6.6" fill="#d55181"/><path d="M643.3,251.6V251.6A1.425,1.425 0 0 1 644.7,250.1H651.9A1.425,1.425 0 0 1 653.3,251.6V251.6Z" fill="#6e7681"/></g>
+<g class="bar" style="animation-delay:702ms"><rect x="658.7" y="279.2" width="10" height="20.8" fill="#3987e5"/><rect x="658.7" y="276.2" width="10" height="1.0" fill="#d95926"/><rect x="658.7" y="266.4" width="10" height="8.0" fill="#199e70"/><path d="M658.7,264.4V264.4A2.85,2.85 0 0 1 661.5,261.5H665.8A2.85,2.85 0 0 1 668.7,264.4V264.4Z" fill="#c98500"/></g>
+<g class="bar" style="animation-delay:720ms"><path d="M674.1,300.0V300.0A2.85,2.85 0 0 1 676.9,297.1H681.2A2.85,2.85 0 0 1 684.1,300.0V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:738ms"><path d="M689.5,300.0V297.3A3,3 0 0 1 692.5,294.3H696.5A3,3 0 0 1 699.5,297.3V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:792ms"><path d="M735.6,300.0V288.8A3,3 0 0 1 738.6,285.8H742.6A3,3 0 0 1 745.6,288.8V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:828ms"><path d="M766.4,300.0V293.0A3,3 0 0 1 769.4,290.0H773.4A3,3 0 0 1 776.4,293.0V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:864ms"><path d="M797.2,300.0V300.0A1.425,1.425 0 0 1 798.6,298.6H805.7A1.425,1.425 0 0 1 807.2,300.0V300.0Z" fill="#3987e5"/></g>
+<g class="bar" style="animation-delay:900ms"><path d="M827.9,300.0V293.0A3,3 0 0 1 830.9,290.0H834.9A3,3 0 0 1 837.9,293.0V300.0Z" fill="#6e7681"/></g>
+<g class="bar" style="animation-delay:918ms"><path d="M843.3,300.0V287.3A3,3 0 0 1 846.3,284.3H850.3A3,3 0 0 1 853.3,287.3V300.0Z" fill="#199e70"/></g>
+<text x="94.5" y="320" font-size="11" text-anchor="middle" fill="#6e7681">dic</text>
+<text x="171.4" y="320" font-size="11" text-anchor="middle" fill="#6e7681">ene 2026</text>
+<text x="232.9" y="320" font-size="11" text-anchor="middle" fill="#6e7681">feb</text>
+<text x="294.5" y="320" font-size="11" text-anchor="middle" fill="#6e7681">mar</text>
+<text x="371.4" y="320" font-size="11" text-anchor="middle" fill="#6e7681">abr</text>
+<text x="432.9" y="320" font-size="11" text-anchor="middle" fill="#6e7681">may</text>
+<text x="494.5" y="320" font-size="11" text-anchor="middle" fill="#6e7681">jun</text>
+<text x="571.4" y="320" font-size="11" text-anchor="middle" fill="#6e7681">jul</text>
+<text x="632.9" y="320" font-size="11" text-anchor="middle" fill="#6e7681">ago</text>
+<text x="709.8" y="320" font-size="11" text-anchor="middle" fill="#6e7681">sep</text>
+<text x="771.4" y="320" font-size="11" text-anchor="middle" fill="#6e7681">oct</text>
+<text x="832.9" y="320" font-size="11" text-anchor="middle" fill="#6e7681">nov</text>
+</svg>
